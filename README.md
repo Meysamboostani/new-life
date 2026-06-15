@@ -20,3 +20,4 @@ app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, echo))
 
 print("Bot is running...")
 app.run_polling()
+python-telegram-bot==22.1
