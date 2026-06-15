@@ -21,3 +21,11 @@ app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, echo))
 print("Bot is running...")
 app.run_polling()
 python-telegram-bot==22.1
+# Telegram Echo Bot
+
+A simple Telegram bot built with Python.
+
+## Installation
+
+```bash
+pip install -r requirements.txt
