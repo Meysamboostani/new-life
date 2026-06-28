@@ -40,3 +40,4 @@ Transaction memos and batch transactions activate on Arc Testnet
 Arc x Uniswap🦄 Swap and liquidity infrastructure for Arc
 
 Event Replay: Privacy on Arc: What Builders Should Know
+What Vyper's Arc Testnet work opens up for builders of agentic financial workflows
