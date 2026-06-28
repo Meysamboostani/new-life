@@ -34,3 +34,5 @@ pip install -r requirements.txt
 Move USDC to and from Stellar with CCTP
 
 Unified Balance Kit: Production Safeguards and Recovery Patterns for spend
+
+Transaction memos and batch transactions activate on Arc Testnet
