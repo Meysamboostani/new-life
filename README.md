@@ -38,3 +38,5 @@ Unified Balance Kit: Production Safeguards and Recovery Patterns for spend
 Transaction memos and batch transactions activate on Arc Testnet
 
 Arc x Uniswap🦄 Swap and liquidity infrastructure for Arc
+
+Event Replay: Privacy on Arc: What Builders Should Know
